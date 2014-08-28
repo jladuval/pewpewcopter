@@ -1,0 +1,27 @@
+{
+  "name": "pewpewcopter",
+  "version": "0.0.0",
+  "description": "pewpewcopter ============",
+  "main": "app.js",
+  "dependencies": {
+    "ar-drone": "^0.3.2",
+    "colors": "^0.6.2",
+    "express": "^4.8.6",
+    "opencv": "^0.5.0",
+    "say": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jladuval/pewpewcopter"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jladuval/pewpewcopter/issues"
+  },
+  "homepage": "https://github.com/jladuval/pewpewcopter"
+}
